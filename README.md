@@ -5,7 +5,7 @@
 
 ## How to make use of this lab?
 
-- Download or clone the zip folder to get all the files on your local computer.
+- Download as zip or clone the repository on local machine to get all the files on your local computer.
 - Click on the link in front of respective labs and read the instructions to complete the labs.
 
 ## DevOps Planning
