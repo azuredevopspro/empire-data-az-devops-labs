@@ -17,7 +17,7 @@
 - Lab : [Lab: Version Controlling with Git](https://github.com/azuredevopspro/empire-data-az-devops-labs/blob/main/Instructions/Labs/AZ400_M02_Version_Controlling_with_Git_in_Azure_Repos.md)
 
 ## Continuous Integration
-- Lab : [Enabling Continuous Integration with Azure Pipelines]{https://github.com/azuredevopspro/empire-data-az-devops-labs/blob/main/Instructions/Labs/AZ400_M06_Enabling_Continuous_Integration_with_Azure_Pipelines.md}
+- Lab : [Enabling Continuous Integration with Azure Pipelines](https://github.com/azuredevopspro/empire-data-az-devops-labs/blob/main/Instructions/Labs/AZ400_M06_Enabling_Continuous_Integration_with_Azure_Pipelines.md)
 
 
 ## Package Management
