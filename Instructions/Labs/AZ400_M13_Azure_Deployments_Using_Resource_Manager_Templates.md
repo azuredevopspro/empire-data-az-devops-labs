@@ -393,11 +393,12 @@ In this task, you will modify the main template to account for remaining depende
 
     with
 
-    ```json
-   "dependsOn": [
+    ```
+    "dependsOn": [
      "linkedTemplate",
      "[resourceId('Microsoft.Network/networkInterfaces/', variables('nicName'))]"
     ```
+
 
 1.  In the resources section under the **Microsoft.Compute/virtualMachines** element, reconfigure the **properties/diagnosticsProfile/bootDiagnostics/storageUri** element to reflect the output value you defined in the linked storage template by replacing:
 
