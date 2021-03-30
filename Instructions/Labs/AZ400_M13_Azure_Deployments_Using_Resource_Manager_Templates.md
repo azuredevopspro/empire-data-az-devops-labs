@@ -72,7 +72,7 @@ In this task, you will use Visual Studio Code to create a Resource Manager templ
 
     > **Note**: Rather than creating a template from scratch we will use one of the [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/) named **Deploy a simple Windows template VM**. The templates are downloadable the templates from GitHub - [101-vm-simple-windows](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-windows).
 
-1.  On your lab computer, open File Explorer and create the following local folders that will serve to store templates:
+1.  On your your computer, open File Explorer and create the following local folders that will serve to store templates:
 
     - **C:\\templates** 
     - **C:\\templates\\storage** 
